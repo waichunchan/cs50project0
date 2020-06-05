@@ -1,0 +1,61 @@
+  #heading {
+    color:blue;
+    text-align:center;
+  }
+  .interest {
+    font-size:28px;
+    color:green;
+  }
+  a+p {
+    color: red;
+    font-size:30px;
+  }
+  table {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+  a {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 150px;
+    padding: 30px;
+  }
+  form {
+    font-size: 40px;
+    margin: 200px 500px;
+  }
+  #gender{
+    font-size: 30px;
+  }
+  body > button {
+    border: 8px black line;
+    margin : 1px 500px;
+    font-size: 30px;
+  }
+  .submit1 {
+    font-size: 30px;
+  }
+  #input1 {
+    font-size: 60px;
+  }
+  #info {
+    text-align: center;
+    background-color: red;
+    margin-top: 100px;
+    font-size: 50px;
+  }
+  #list {
+    font-size: 30px;
+    color: navy;
+  }
+  #list:hover {
+    color: blue;
+  }
+  form~button:hover {
+    background-color: yellow;
+  }
